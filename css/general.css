@@ -1,0 +1,166 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+style {
+	background-repeat:no-repeat;
+}
+
+img {
+	width:100%;
+}
+
+.logo {
+	width: 30%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 0 0 10px;
+	color: #fff;
+	margin-top: 350px;
+	margin-right: 10px;
+	margin-bottom: 35px;
+}
+
+
+#social-icons {
+	width: 9%;
+	float: left;
+	display:inline;
+}
+
+
+@media only screen and (min-width: 20em) {
+
+	.logo {
+	width: 20%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 400px;
+	margin-right: 80px;
+	margin-bottom: 30px;
+}
+
+}
+
+@media only screen and (min-width: 32em) {
+
+	.logo {
+	width: 20%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 460px;
+	margin-right: 90px;
+	margin-bottom: 40px;
+}
+
+}
+
+@media only screen and (min-width: 43em) {
+
+	.logo {
+	width: 15%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 460px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+}
+
+}
+
+@media only screen and (min-width: 45em) {
+
+		.logo {
+	width: 10%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 400px;
+	margin-right: 400px;
+	margin-bottom: 70px;
+}
+
+}
+
+
+@media only screen and (min-width: 46em) {
+
+	.logo {
+	width: 10%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 500px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+}
+
+}
+
+
+@media only screen and (min-width: 62em) {
+
+	.logo {
+	width: 8%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 500px;
+	margin-right: 500px;
+	margin-bottom: 20px;
+}
+
+}
+
+
+@media only screen and (min-width: 75em) {
+
+	.logo {
+	width: 7%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 500px;
+	margin-right: 700px;
+	margin-bottom: 50px;
+}
+
+}
+
+
+
+
