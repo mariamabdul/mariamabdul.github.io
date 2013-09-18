@@ -31,6 +31,35 @@ h1 {
 	display:inline;
 }
 
+p {
+	font-size: 29px;
+}
+
+.bucket1 {
+	float: left;
+	width: 60%;
+}
+
+.bucket2 {
+	float: left;
+	width: 60%;
+}
+
+.bucket3 {
+	float: left;
+	width: 60%;	
+}
+
+.billboard {
+	background-color: #000;
+	padding: 2%;
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 17px;
+	margin-bottom: 3%;
+}
 
 @media only screen and (min-width: 20em) {
 
@@ -48,6 +77,32 @@ h1 {
 	margin-bottom: 30px;
 }
 
+p {
+	font-size: 39px;
+}
+
+.bucket1 {
+	float: left;
+	width: 74%;
+}
+
+.bucket2 {
+	float: left;
+	width: 74%;
+}
+
+.bucket3 {
+	float: left;
+	width: 74%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 20px;
+	margin-bottom: 3%;
+}
+
+
 }
 
 @media only screen and (min-width: 32em) {
@@ -64,6 +119,33 @@ h1 {
 	margin-top: 460px;
 	margin-right: 90px;
 	margin-bottom: 40px;
+}
+
+p {
+	font-size: 42px;
+}
+
+.bucket1 {
+	float: left;
+	width: 77%;
+}
+
+.bucket2 {
+	float: left;
+	width: 77%;
+}
+
+.bucket3 {
+	float: left;
+	width: 77%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 25px;
+	margin-bottom: 3%;
+	margin-left: 35%;
+	margin-top: 1%;
 }
 
 }
@@ -84,6 +166,32 @@ h1 {
 	margin-bottom: 30px;
 }
 
+p {
+	font-size: 43px;
+}
+
+.bucket1 {
+	float: left;
+	width: 35%;
+}
+
+.bucket2 {
+	float: right;
+	width: 35%;
+}
+
+.bucket3 {
+	float: left;
+	width: 35%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 20px;
+	margin-bottom: 3%;
+	margin-left: 31%;
+	margin-top: 1%;
+}
 }
 
 @media only screen and (min-width: 45em) {
@@ -123,6 +231,51 @@ h1 {
 
 }
 
+@media only screen and (min-width: 49em) {
+
+	.logo {
+	width: 10%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 500px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 49px;
+}
+
+.bucket1 {
+	float: left;
+	width: 39%;
+}
+
+.bucket2 {
+	float: right;
+	width: 39%;
+}
+
+.bucket3 {
+	float: left;
+	width: 39%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 23px;
+	margin-bottom: 3%;
+	margin-left: 31%;
+	margin-top: 1%;
+}
+
+}
+
 
 @media only screen and (min-width: 62em) {
 
@@ -138,6 +291,79 @@ h1 {
 	margin-top: 500px;
 	margin-right: 500px;
 	margin-bottom: 20px;
+}
+
+p {
+	font-size: 52px;
+}
+
+.bucket1 {
+	float: left;
+	width: 41%;
+}
+
+.bucket2 {
+	float: right;
+	width: 41%;
+}
+
+.bucket3 {
+	float: left;
+	width: 41%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 23px;
+	margin-bottom: 3%;
+	margin-left: 32%;
+	margin-top: 1%;
+}
+
+
+}
+
+@media only screen and (min-width: 70em) {
+
+	.logo {
+	width: 7%;
+	float: left;
+}
+
+h1 {
+	font-size: 15px;
+	padding:0 90 0 10px;
+	color: #fff;
+	margin-top: 500px;
+	margin-right: 700px;
+	margin-bottom: 50px;
+}
+
+p {
+	font-size: 54px;
+}
+
+.bucket1 {
+	float: left;
+	width: 25%;
+}
+
+.bucket2 {
+	float: left;
+	width: 25%;
+}
+
+.bucket3 {
+	float: right;
+	width: 25%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 23px;
+	margin-bottom: 3%;
+	margin-left: 32%;
+	margin-top: 1%;
 }
 
 }
@@ -158,6 +384,34 @@ h1 {
 	margin-right: 700px;
 	margin-bottom: 50px;
 }
+
+p {
+	font-size: 54px;
+}
+
+.bucket1 {
+	float: left;
+	width: 25%;
+}
+
+.bucket2 {
+	float: left;
+	width: 25%;
+}
+
+.bucket3 {
+	float: right;
+	width: 25%;	
+}
+
+.wrapper figcaption {
+	font-weight: 500;
+	font-size: 23px;
+	margin-bottom: 3%;
+	margin-left: 32%;
+	margin-top: 1%;
+}
+
 
 }
 
