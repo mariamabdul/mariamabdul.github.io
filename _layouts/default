@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Responsive Personal Page</title>
+        <link href="css/general.css" rel="stylesheet">
+        <meta name="handheldfriendly" content="true">
+        <meta name="mobileoptimized" content="240">
+        <meta name="viewport" content="width=device-width,initial-scale=1, target-densitydpi=device-dpi">
+    
+  
+	<style>
+	body {background-image:url(images/me.jpg);
+	background-repeat:no-repeat;
+	width:100%;}
+	</style>
+</head>
+
+{{content}}
+
+</body>
+</html>
